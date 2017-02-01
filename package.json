@@ -54,6 +54,7 @@
     "morgan": "^1.6.1",
     "nconf": "^0.8.2",
     "redis": "^2.2.5",
-    "request": "^2.79.0"
+    "request": "^2.79.0",
+    "whatwg-fetch": "^2.0.2"
   }
 }

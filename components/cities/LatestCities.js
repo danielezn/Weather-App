@@ -5,6 +5,7 @@ import List from '../common/List';
 import CompactCities from './CompactCities';
 import NoMatch from '../common/NoMatch'
 import weatherError from '../../config/errors';
+import 'whatwg-fetch'
 
 @observer
 class LatestCities extends React.Component {
