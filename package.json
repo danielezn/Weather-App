@@ -13,7 +13,7 @@
     "gulp": "gulp",
     "debug": "node-dev --debug babel-server.js",
     "server": "node-dev babel-server.js",
-    "start": "npm-run-all --parallel gulp server",
+    "start": "npm-run-all --parallel gulp server &",
     "start:debug": "npm-run-all --parallel gulp debug"
   },
   "devDependencies": {

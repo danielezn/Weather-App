@@ -42,7 +42,6 @@ class LatestCities extends React.Component {
                                 </div>
         let listToRender = <List cities={this.props.store.cities} itemType={CompactCities} callApi={()=>{this.callApi((result)=>{this.props.store.updateCities(result)})}}/>
         let componentToRender = (this.props.store.loading == true ? loadingToRender : listToRender)
-        debugger
         return (
             <div>
                 {componentToRender}
