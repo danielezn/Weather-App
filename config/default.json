@@ -1,0 +1,15 @@
+{
+    "domain": "http://localhost:3000",
+    "port": 80,
+    "compressionThreshold": 512,
+    "host": "localhost",
+    "staticFolderMount": "/assets",
+    "staticFolders": ["public"],
+    "maxAge": "1d",
+    "development": true,
+    "templateRoot": "views",
+    "templateLayouts": "views/layout",
+    "redis-port": 6379,
+    "redis-url": "127.0.0.1",
+    "forecast": "https://api.darksky.net/forecast/25d9abbd912fe4c91f03f21c3f02b1b1/"
+}

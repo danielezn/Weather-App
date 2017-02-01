@@ -1,0 +1,8 @@
+{
+	"America/Santiago": {"ltd": "-33.4194524", "lng": "-70.6089823" },
+	"Europe/Zurich": {"ltd": "47.3686", "lng": "8.5404"},
+	"Pacific/Auckland": {"ltd": "-36.8535", "lng": "174.7656" },
+	"Australia/Sydney": {"ltd": "-33.868", "lng": "151.21"},
+	"Europe/Londres": {"ltd": "51.5073", "lng": "-0.1276" },
+	"USA/Georgia": {"ltd": "32.6627932", "lng": "-85.4665369"}
+}
